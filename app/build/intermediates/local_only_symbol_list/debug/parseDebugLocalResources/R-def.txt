@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id activity_main
+id btnChangeName
+id tvDepartment
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btn_label
+string chairwoman_name
+string department_name
+string student_id
+style Base.Theme.HelloWorld_Razonable
+style Theme.HelloWorld_Razonable
+xml backup_rules
+xml data_extraction_rules

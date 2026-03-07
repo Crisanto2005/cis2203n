@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Hello Campus</string>
+    <string name="btn_label">Show Chairwoman</string>
+    <string name="chairwoman_name">Chairwoman</string>
+    <string name="department_name">Department Name Here</string>
+    <string name="student_id">ID: 24104369</string>
+    <style name="Base.Theme.HelloWorld_Razonable" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.HelloWorld_Razonable" parent="Base.Theme.HelloWorld_Razonable"/>
+</resources>
