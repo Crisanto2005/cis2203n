@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Interrupted Counter</string>
+    <string name="btn_increment">Increment</string>
+</resources>
